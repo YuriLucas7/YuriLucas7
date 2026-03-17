@@ -1,87 +1,33 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yuri-lucas-2038292b4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YuriLucas7.YuriLucas7&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Yuri Lucas from Moema, Minas Gerais</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YuriLucas7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YuriLucas7.YuriLucas7&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-
-###
-
-
-###
+<table>
+  <tr>
+    <td  width="400">
+      <img src="the-inferno-canto-8-1.avif" width="400" alt="Inferno Canto VIII - Gustave Doré">
+    </td>
+    <td valign="top">
+      <h1>Sergio Bonatto</h1>
+      <p>Software engineer focused on programming languages, type systems, and low-level systems. Work spans formal methods, functional programming, and operating systems. Main interests include dependent type theory, proof languages, language interpreters, virtual machines, and minimalist kernels.</p>
+      <h2>Areas of Interest</h2>
+      <ul>
+        <li>Programming languages and interpreters</li>
+        <li>Lambda calculus and type systems</li>
+        <li>Dependent types and proof assistants</li>
+        <li>Operating systems and kernels</li>
+        <li>Virtual machines and emulators</li>
+        <li>Massively parallel and functional computation models</li>
+      </ul>
+      <h2>Technologies</h2>
+      <ul>
+        <li>Languages: C, Haskell, Rust, TypeScript</li>
+        <li>Formal methods: dependent types, proof development, type theory</li>
+        <li>Systems: kernels, virtual memory, system calls, emulation</li>
+        <li>Applications: distributed systems, web applications, tooling</li>
+      </ul>
+      <h2>Contact</h2>
+      <ul>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/yuri-lucas-2038292b4/" target="_blank"">Yuri Lucas</a></li>
+        <li>Website: <a href="https://github.com/YuriLucas7">https://github.com/YuriLucas7</a></li>
+        <li>Discord: fibonatto</li>
+      </ul>
+    </td>
+  </tr>
+</table>
