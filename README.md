@@ -4,7 +4,7 @@
       <img src="the-inferno-canto-8-1.avif" width="400" alt="Inferno Canto VIII - Gustave Doré">
     </td>
     <td valign="top">
-      <h1>Sergio Bonatto</h1>
+      <h1>Yuri Lucas</h1>
       <p>Software engineer focused on programming languages, type systems, and low-level systems. Work spans formal methods, functional programming, and operating systems. Main interests include dependent type theory, proof languages, language interpreters, virtual machines, and minimalist kernels.</p>
       <h2>Areas of Interest</h2>
       <ul>
@@ -17,7 +17,7 @@
       </ul>
       <h2>Technologies</h2>
       <ul>
-        <li>Languages: C, Haskell, Rust, TypeScript</li>
+        <li>Languages: C, C#, JavaScript</li>
         <li>Formal methods: dependent types, proof development, type theory</li>
         <li>Systems: kernels, virtual memory, system calls, emulation</li>
         <li>Applications: distributed systems, web applications, tooling</li>
