@@ -26,7 +26,6 @@
       <ul>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/yuri-lucas-2038292b4/" target="_blank"">Yuri Lucas</a></li>
         <li>Website: <a href="https://github.com/YuriLucas7">https://github.com/YuriLucas7</a></li>
-        <li>Discord: fibonatto</li>
       </ul>
     </td>
   </tr>
