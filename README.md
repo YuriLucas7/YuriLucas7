@@ -5,22 +5,22 @@
     </td>
     <td valign="top">
       <h1>Yuri Lucas</h1>
-      <p>Software engineer focused on programming languages, type systems, and low-level systems. Work spans formal methods, functional programming, and operating systems. Main interests include dependent type theory, proof languages, language interpreters, virtual machines, and minimalist kernels.</p>
+      <p>Software Engineer focused on full-stack web development and business systems. Experience building scalable applications using modern backend and frontend technologies, with strong knowledge in databases and software architecture. Currently pursuing a degree in Computer Science..</p>
       <h2>Areas of Interest</h2>
       <ul>
-        <li>Programming languages and interpreters</li>
-        <li>Lambda calculus and type systems</li>
-        <li>Dependent types and proof assistants</li>
-        <li>Operating systems and kernels</li>
-        <li>Virtual machines and emulators</li>
-        <li>Massively parallel and functional computation models</li>
+        <li>Full-stack web development</li>
+        <li>Backend systems and APIs</li>
+        <li>Frontend interfaces and user experience</li>
+        <li>Database design and optimization</li>
+        <li>Enterprise systems (ERP) and business solutions</li>
       </ul>
       <h2>Technologies</h2>
       <ul>
         <li>Languages: C, C#, JavaScript</li>
-        <li>Formal methods: dependent types, proof development, type theory</li>
-        <li>Systems: kernels, virtual memory, system calls, emulation</li>
-        <li>Applications: distributed systems, web applications, tooling</li>
+        <li>Frontend: HTML, CSS</li>
+        <li>Backend: .NET</li>
+        <li>Databases: PostgreSQL, MySQL</li>
+        <li>Concepts: REST APIs, system integration, software architecture</li>
       </ul>
       <h2>Contact</h2>
       <ul>
