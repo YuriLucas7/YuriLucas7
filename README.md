@@ -5,7 +5,7 @@
     </td>
     <td valign="top">
       <h1>Yuri Lucas</h1>
-      <p>Software Engineer focused on full-stack web development and business systems. Experience building scalable applications using modern backend and frontend technologies, with strong knowledge in databases and software architecture. Currently pursuing a degree in Computer Science..</p>
+      <p>Software Engineer focused on full-stack web development and business systems. Experience building scalable applications using modern backend and frontend technologies, with strong knowledge in databases and software architecture. Currently pursuing a degree in Computer Science.</p>
       <h2>Areas of Interest</h2>
       <ul>
         <li>Full-stack web development</li>
