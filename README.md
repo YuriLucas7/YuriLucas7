@@ -16,8 +16,8 @@
       </ul>
       <h2>Technologies</h2>
       <ul>
-        <li>Languages: C, C#, JavaScript</li>
-        <li>Frontend: HTML, CSS</li>
+        <li>Languages: C#, JavaScript, Python</li>
+        <li>Frontend: React, HTML, CSS</li>
         <li>Backend: .NET</li>
         <li>Databases: PostgreSQL, MySQL</li>
         <li>Concepts: REST APIs, system integration, software architecture</li>
