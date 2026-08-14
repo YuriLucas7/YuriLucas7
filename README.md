@@ -25,7 +25,7 @@
       <h2>Contact</h2>
       <ul>
         <li>Website: <a href="https://github.com/YuriLucas7">https://github.com/YuriLucas7</a></li>
-        <li>Instagram: <a href="https://instagram.com/@yurilucaslfs">https://github.com/YuriLucas7</a></li>
+        <li>Instagram: <a href="https://instagram.com/@yurilucaslfs">https://instagram.com/@yurilucaslfs</a></li>
       </ul>
     </td>
   </tr>
