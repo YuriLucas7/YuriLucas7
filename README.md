@@ -35,8 +35,6 @@
           <a href="https://www.linkedin.com/in/yurilucaslfs/" target="_blank">
             Yuri Lucas
           </a>
-        </li>
-        <li>
           </a>
         </li>
         <li>
