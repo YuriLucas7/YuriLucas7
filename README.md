@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td width="400">
-      <img src="the-inferno-canto-8-1.avif" width="400" alt="Inferno Canto VIII - Gustave Doré">
-    </td>
+<td width="480" valign="top">
+  <img src="the-inferno-canto-8-1.avif" width="480" alt="Inferno Canto VIII - Gustave Doré">
+</td>
     <td valign="top">
       <h1>Yuri Lucas</h1>
       <p>
@@ -22,7 +22,7 @@
       <ul>
         <li>Languages: C#, JavaScript, Python, C, SQL</li>
         <li>Frontend: React, Vite, HTML, CSS</li>
-        <li>Backend: .NET, ASP.NET Core, REST APIs, SignalR</li>
+        <li>Backend: .NET, ASP.NET Core, REST APIs</li>
         <li>Databases: PostgreSQL, MySQL</li>
         <li>Cloud & Infrastructure: AWS S3, AWS Lambda, Docker</li>
         <li>AI: OpenAI APIs, AI Agents, document processing and structured data extraction</li>
