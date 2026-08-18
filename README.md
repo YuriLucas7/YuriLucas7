@@ -1,7 +1,7 @@
 <table>
   <tr>
-<td width="480" valign="top">
-  <img src="the-inferno-canto-8-1.avif" width="480" alt="Inferno Canto VIII - Gustave Doré">
+<td width="450" valign="top">
+  <img src="the-inferno-canto-8-1.avif" width="450" alt="Inferno Canto VIII - Gustave Doré">
 </td>
     <td valign="top">
       <h1>Yuri Lucas</h1>
