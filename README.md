@@ -37,9 +37,6 @@
           </a>
         </li>
         <li>
-          GitHub:
-          <a href="https://github.com/YuriLucas7" target="_blank">
-            github.com/YuriLucas7
           </a>
         </li>
         <li>
