@@ -37,12 +37,6 @@
           </a>
           </a>
         </li>
-        <li>
-          Instagram:
-          <a href="https://www.instagram.com/yurilucaslfs/" target="_blank">
-            @yurilucaslfs
-          </a>
-        </li>
       </ul>
     </td>
   </tr>
