@@ -33,7 +33,7 @@
         <li>
           LinkedIn:
           <a href="https://www.linkedin.com/in/yurilucaslfs/" target="_blank">
-            Yuri Lucas
+            Yuri
           </a>
           </a>
         </li>
