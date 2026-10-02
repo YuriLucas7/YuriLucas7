@@ -14,7 +14,7 @@
         <li>Backend systems and REST APIs</li>
         <li>SaaS platforms and business systems</li>
         <li>Artificial Intelligence and automation</li>
-        <li>Cloud infrastructure and system integration</li>
+        <li>Cloud infrastructure and system integrations</li>
         <li>Database design and optimization</li>
         <li>Software architecture</li>
       </ul>
